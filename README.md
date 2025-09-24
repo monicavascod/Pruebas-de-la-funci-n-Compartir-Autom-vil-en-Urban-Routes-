@@ -78,6 +78,6 @@ Se probaron escenarios con y sin campos obligatorios:
 <div align="center">
 
 ✨ Proyecto realizado como parte de mi formación en **QA Manual**.  
-🔗 [Ver mi perfil de GitHub](https://github.com/monivascod)  
+🔗 [Ver mi perfil de GitHub](https://github.com/monicavascod)  
 
 </div>
