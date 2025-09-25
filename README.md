@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛠️ Proyecto 3 – Pruebas de Interfaz y Funcionalidad en Urban Routes  
+# 🛠️ Pruebas de Interfaz y Funcionalidad en Urban Routes  
 
 📌 **Rol:** QA Manual  
 📌 **Objetivo:** Validar el diseño, las ventanas emergentes y la lógica del botón **"Reservar"** en la aplicación Urban Routes.  
