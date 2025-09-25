@@ -75,6 +75,11 @@ Se probaron escenarios con y sin campos obligatorios:
 
 ---
 
+# 📄 Documentación completa
+📌 [Ver documentación en Google Sheets](https://docs.google.com/spreadsheets/d/1MmAG3Zq3uDhi4er_n3Bj_Q_9fCkSHA1U/edit?usp=sharing&ouid=112657294087284506568&rtpof=true&sd=true)
+
+---
+
 <div align="center">
 
 ✨ Proyecto realizado como parte de mi formación en **QA Manual**.  
